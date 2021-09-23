@@ -32,5 +32,5 @@
 <p align="left">
 <a href="https://twitter.com/lam_gap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sendmetobaal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCW_UQ1C1dH_UKIa8mZJAKTw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc06nw_cucixuvgchzdhzzpq" height="30" width="40" /></a>
-<a href="https://discord.gg/BWWac9KYXj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BWWac9KYXj" height="30" width="40" /></a>
+<a href="https://discord.gg/6EfdwM9fDg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BWWac9KYXj" height="30" width="40" /></a>
 </p>
