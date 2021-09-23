@@ -7,7 +7,7 @@
 
 - 💡 I studied at a secondary school in **Pattaya**.
 
-- 👨‍💻 All of my projects are available at Discord Server [https://discord.gg/XkSBtFraD3](https://discord.gg/XkSBtFraD3)
+- 👨‍💻 My discord user name is : **★★★ Super Racks ★★★#8840**
 
 - 💬 Ask me about **FiveM Scripts, Lua Basic**
 
