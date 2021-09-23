@@ -30,7 +30,7 @@
 [ anuraghazra's Github ](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
-<a href="https://twitter.com/sendmetobaal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sendmetobaal" height="30" width="40" /></a>
+<a href="https://twitter.com/lam_gap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sendmetobaal" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/xin.jakkrit.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/xin.jakkrit.5/" height="30" width="40" /></a>
 <a href="https://instagram.com/kchxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kchxx" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc06nw_cucixuvgchzdhzzpq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc06nw_cucixuvgchzdhzzpq" height="30" width="40" /></a>
