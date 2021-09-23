@@ -11,7 +11,7 @@
 
 - 💬 My user name is **Racks**
 
-- 📫 My Contact **grimjakkrit@gmail.com**
+- 📫 My Contact email **pandamheenoi@gmail.com**
 
 - 🧐 This Me  
   **I'm not a type of jelious or hate who have better coding skill If I found someone who have better skill I like to stay, learning, asking from them I just want to growup.    Sorry for my English skill 😅**
