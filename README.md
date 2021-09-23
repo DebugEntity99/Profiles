@@ -21,7 +21,7 @@
 <p align="center"> 
 <a href="https://www.lua.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/></a>
   <p align="center"> 
-<a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="lua" width="40" height="40"/></a>
+<a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/03/CppLogo.svg" alt="lua" width="40" height="40"/></a>
 
 ![ Code Not My Father's ](https://github-readme-stats.vercel.app/api?username=idontknowtoobrother&show_icons=true&theme=dark&count_private=true)
 
