@@ -5,7 +5,7 @@
 <h1 align="center"> Super Racks Profile 🎈 </h1>
 <h3 align="center">I'm a high school student who wants to learn about code ✨.</h3>
 
-- 💡 I’m currently study at **Burapha University.**
+- 💡 I studied at a secondary school in **Pattaya**.
 
 - 👨‍💻 All of my projects are available at Discord Server [https://discord.gg/XkSBtFraD3](https://discord.gg/XkSBtFraD3)
 
