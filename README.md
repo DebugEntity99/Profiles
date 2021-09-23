@@ -9,7 +9,7 @@
 
 - 👨‍💻 My discord user name is : **★★★ Super Racks ★★★#8840**
 
-- 💬 Ask me about **FiveM Scripts, Lua Basic**
+- 💬 My user name is **Racks**
 
 - 📫 My Contact **grimjakkrit@gmail.com**
 
