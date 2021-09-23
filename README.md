@@ -24,7 +24,7 @@
 <a href="https://visualstudio.microsoft.com/vs/features/net-development/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2749/2749162.png" alt="lua" width="40" height="40"/></a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="lua" width="100" height="40"/></a>
 
-![ Code Not My Father's ](https://github-readme-stats.vercel.app/api?username=idontknowtoobrother&show_icons=true&theme=dark&count_private=true)
+![ Code Not My Father's ](https://github-readme-stats.vercel.app/api?username=SuperRacks&show_icons=true&theme=dark&count_private=true)
 
 **Github Theme Credit**
 [ anuraghazra's Github ](https://github.com/anuraghazra/github-readme-stats)
