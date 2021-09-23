@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/eOewytQL4tOOA/giphy.gif?cid=ecf05e470tfilvlpjha0qmbywoejkh7tw1iek3rh9lk1l5qu&rid=giphy.gif&ct=g" alt="my-banner"/>
 </p>
 
-<h1 align="center"> Keng & KP </h1>
+<h1 align="center"> Super Racks Profile 🎈 </h1>
 <h3 align="center">I'm just a University Student who want to have a monster coding skill 😃.</h3>
 
 - 💡 I’m currently study at **Burapha University.**
