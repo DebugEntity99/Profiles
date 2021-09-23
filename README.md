@@ -22,7 +22,7 @@
 <a href="https://www.lua.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/></a>
 <a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/03/CppLogo.svg" alt="lua" width="40" height="40"/></a>
 <a href="https://visualstudio.microsoft.com/vs/features/net-development/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2749/2749162.png" alt="lua" width="40" height="40"/></a>
-<a href="https://www.python.org/" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="lua" width="60" height="60"/></a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="lua" width="80" height="40"/></a>
 
 ![ Code Not My Father's ](https://github-readme-stats.vercel.app/api?username=idontknowtoobrother&show_icons=true&theme=dark&count_private=true)
 
