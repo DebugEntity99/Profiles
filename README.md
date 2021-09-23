@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> Super Racks Profile 🎈 </h1>
-<h3 align="center">I'm just a University Student who want to have a monster coding skill 😃.</h3>
+<h3 align="center">I'm a high school student who wants to learn about code ✨.</h3>
 
 - 💡 I’m currently study at **Burapha University.**
 
