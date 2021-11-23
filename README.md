@@ -2,12 +2,12 @@
   <img src="https://media3.giphy.com/media/eOewytQL4tOOA/giphy.gif?cid=ecf05e470tfilvlpjha0qmbywoejkh7tw1iek3rh9lk1l5qu&rid=giphy.gif&ct=g" alt="my-banner"/>
 </p>
 
-<h1 align="center"> M1000 🎈 </h1>
+<h1 align="center"> ! Super Racks 🛒 </h1>
 <h3 align="center">Fuck You If You Are The Monkeys ✨.</h3>
 
-- 👨‍💻 My discord user name is : **! M1000#1000**
+- 👨‍💻 My discord user name is : **! Super Racks#7727**
 
-- 💬 My user name is **M**
+- 💬 My user name is **Racks**
 
 - 📫 My Contact email **supports@rackstore.xyz**
 
