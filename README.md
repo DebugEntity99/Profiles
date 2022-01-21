@@ -2,12 +2,11 @@
   <img src="https://media3.giphy.com/media/eOewytQL4tOOA/giphy.gif?cid=ecf05e470tfilvlpjha0qmbywoejkh7tw1iek3rh9lk1l5qu&rid=giphy.gif&ct=g" alt="my-banner"/>
 </p>
 
-<h1 align="center"> ! Dynasty 🛒 </h1>
-<h3 align="center">Fuck You If You Are The Monkeys ✨.</h3>
+<h1 align="center"> ! Lunar Like The Moon 🛒 </h1>
 
-- 👨‍💻 My discord user name is : **! Dynasty#5950**
+- 👨‍💻 My discord user name is : **! Lunar#1337**
 
-- 💬 My user name is **Dynasty**
+- 💬 My user name is **Lunar**
 
 
 
