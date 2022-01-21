@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/eOewytQL4tOOA/giphy.gif?cid=ecf05e470tfilvlpjha0qmbywoejkh7tw1iek3rh9lk1l5qu&rid=giphy.gif&ct=g" alt="my-banner"/>
+  <img src="https://cdn.discordapp.com/banners/928954822038802484/a_0762db84e861524ef510f76a6e85ba91.gif?size=4096" alt="my-banner"/>
 </p>
 
 <h1 align="center"> ! Lunar Like The Moon 🛒 </h1>
