@@ -4,7 +4,7 @@
 
 <h1 align="center"> ! Lunar Like The Moon 🛒 </h1>
 
-- 👨‍💻 My discord user name is : **! Lunar#1337**
+- 👨‍💻 My discord user name is : **! Lunar#0390**
 
 - 💬 My user name is **Lunar**
 
