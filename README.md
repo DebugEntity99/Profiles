@@ -1,16 +1,18 @@
 [![ProfileBanner](https://github.com/atharva21-stack/atharva21-stack/blob/fb152bc0c57882fb9553353cde85ec2ca0c1e52a/designs/Atharva21-stack(2).gif)](https://ac21.is-a.dev/)
 
-### Hey I Am Luna ! 🙋‍♂
+### Hey Folks ! 🙋‍♂
 I'm a computer science engineering student.
-I enjoy programming and am eager to learn more about full-stack web and app development and some software development.
+I enjoy programming and am eager to learn more about full-stack web and app development.
 
 
--👨‍🎓 At the moment, I am study on high school.
+-👨‍🎓 At the moment, I am the GDSC Lead at GES-COENGG.
 
 
-- 🌱 I'm skilled in web and app development, software development.
+- 🌱 I'm skilled in web and app development.
 
-- 👯 My favourite like coding some code.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 👯 I'd be delighted to work with you.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- 💬 Ask me about anything. I will try to help you as much as I can.
 
 ---
 
@@ -92,8 +94,6 @@ I enjoy programming and am eager to learn more about full-stack web and app deve
  
  </p>
 </div>
-
-
             <br>
     </details>
 </div>
