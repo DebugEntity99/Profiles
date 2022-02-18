@@ -1,18 +1,18 @@
 [![ProfileBanner](https://github.com/atharva21-stack/atharva21-stack/blob/fb152bc0c57882fb9553353cde85ec2ca0c1e52a/designs/Atharva21-stack(2).gif)](https://ac21.is-a.dev/)
 
-### Hey Folks ! 🙋‍♂
+### Hello, my name is ! Luna, my pseudonym. ! 🙋‍♂
 I'm a computer science engineering student.
-I enjoy programming and am eager to learn more about full-stack web and app development.
+I enjoy programming and am eager to learn more about full-stack web, app and software development.
 
 
--👨‍🎓 At the moment, I am the GDSC Lead at GES-COENGG.
+-👨‍🎓 At the moment, I am study on high school.
 
 
-- 🌱 I'm skilled in web and app development.
+- 🌱 I'm skilled in web, app and some software development.
 
-- 👯 I'd be delighted to work with you.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 👯 In my free time I will study about code.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 💬 Ask me about anything. I will try to help you as much as I can.
+- 💬 You can ask me everything do you want to know of my life :) I can ask 
 
 ---
 
