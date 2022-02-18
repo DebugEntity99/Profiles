@@ -1,4 +1,4 @@
-[![ProfileBanner](https://github.com/lunax0390/lunax0390-stack/blob/main/designs/lunax0390-stack.gif)](https://ac21.is-a.dev/)
+[![ProfileBanner](https://github.com/lunax0390/lunax0390-stack/blob/main/designs/lunax0390-stack.gif)](https://lunax0390.is-a.dev/)
 
 ### Hello, my name is ! Luna, my pseudonym. ! 🙋‍♂
 I'm a computer science engineering student.
@@ -73,7 +73,7 @@ I enjoy programming and am eager to learn more about full-stack web, app and sof
  - Visit:
  <p>
   
-  [<img align="left" alt="cmulay | Portfolio" width="22px" src="https://github.com/lunax0390/lunax0390-stack/blob/main/designs/socials/domain.png" />](https://ac21.is-a.dev)
+  [<img align="left" alt="cmulay | Portfolio" width="22px" src="https://github.com/lunax0390/lunax0390-stack/blob/main/designs/socials/domain.png" />](https://lunax0390.is-a.dev/)
   
  </p> <br>
 </div>
