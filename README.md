@@ -23,16 +23,16 @@ I enjoy programming and am eager to learn more about full-stack web, app and sof
 <div> 
     - Technologies:
         <p><br>
-            <img align="left" alt="cmulay | C++" width="22px" src="https://github.com/lunax0390/lunax0390-stack/tree/main/designs/mytech/c-plus-plus-logo.png" />
-            <img align="left" alt="cmulay | HTML5" width="22px" src="https://github.com/lunax0390/lunax0390-stack/tree/main/designs/mytech/html-5.png" />
-            <img align="left" alt="cmulay | CSS3" width="22px" src="https://github.com/lunax0390/lunax0390-stack/tree/main/designs/mytech/css3.png" />                      
-            <img align="left" alt="cmulay | PHP" width="22px" src="https://github.com/lunax0390/lunax0390-stack/tree/main/designs/mytech/php-logo.png" />                      
-            <img align="left" alt="cmulay | JAVA" width="22px" src="https://github.com/lunax0390/lunax0390-stack/tree/main/designs/mytech/java-coffee-cup-logo.png" />                      
-            <img align="left" alt="cmulay | JavaScript" width="22px" src="https://github.com/lunax0390/lunax0390-stack/tree/main/designs/mytech/javascript-logo.png" />                      
-            <img align="left" alt="cmulay | React" width="22px" src="https://github.com/lunax0390/lunax0390-stack/tree/main/designs/mytech/react-native.png" />                                         
-            <img align="left" alt="cmulay | Android with Kotlin" width="22px" src="https://github.com/lunax0390/lunax0390-stack/tree/main/designs/mytech/kotlin.png" />                                          
-            <img align="left" alt="cmulay | Swift" width="22px" src="https://github.com/lunax0390/lunax0390-stack/tree/main/designs/mytech/swift.png" />                      
-            <img align="left" alt="cmulay | Python" width="22px" src="https://github.com/lunax0390/lunax0390-stack/tree/main/designs/mytech/python.png" />                      
+            <img align="left" alt="cmulay | C++" width="22px" src="https://github.com/lunax0390/lunax0390-stack/blob/main/designs/mytech/c-plus-plus-logo.png" />
+            <img align="left" alt="cmulay | HTML5" width="22px" src="https://github.com/lunax0390/lunax0390-stack/blob/main/designs/mytech/html-5.png" />
+            <img align="left" alt="cmulay | CSS3" width="22px" src="https://github.com/lunax0390/lunax0390-stack/blob/main/designs/mytech/css3.png" />                      
+            <img align="left" alt="cmulay | PHP" width="22px" src="https://github.com/lunax0390/lunax0390-stack/blob/main/designs/mytech/php-logo.png" />                      
+            <img align="left" alt="cmulay | JAVA" width="22px" src="https://github.com/lunax0390/lunax0390-stack/blob/main/designs/mytech/java-coffee-cup-logo.png" />                      
+            <img align="left" alt="cmulay | JavaScript" width="22px" src="https://github.com/lunax0390/lunax0390-stack/blob/main/designs/mytech/javascript-logo.png" />                      
+            <img align="left" alt="cmulay | React" width="22px" src="https://github.com/lunax0390/lunax0390-stack/blob/main/designs/mytech/react-native.png" />                                         
+            <img align="left" alt="cmulay | Android with Kotlin" width="22px" src="https://github.com/lunax0390/lunax0390-stack/blob/main/designs/mytech/kotlin.png" />                                          
+            <img align="left" alt="cmulay | Swift" width="22px" src="https://github.com/lunax0390/lunax0390-stack/blob/main/designs/mytech/swift.png" />                      
+            <img align="left" alt="cmulay | Python" width="22px" src="https://github.com/lunax0390/lunax0390-stack/blob/main/designs/mytech/python.png" />                      
         </p><br>
 </div>
 
@@ -41,12 +41,12 @@ I enjoy programming and am eager to learn more about full-stack web, app and sof
 <div> 
      - IDE's and S/W Package Managers:
             <p><br>
-                <img align="left" alt="lunax0390-stack | Adobe Dreamweaver" width="22px" src="https://github.com/lunax0390/lunax0390-stack/tree/main/designs/ide_packages/intellij-idea.png" />
-                <img align="left" alt="lunax0390-stack | Adobe Dreamweaver" width="22px" src="https://github.com/lunax0390/lunax0390-stack/tree/main/designs/ide_packages/pycharm.png" />
-                <img align="left" alt="lunax0390-stack | Visual Studio Code" width="22px" src="https://github.com/lunax0390/lunax0390-stack/tree/main/designs/ide_packages/visual-studio-logo.png" />
-                <img align="left" alt="lunax0390-stack | Apple XCode" width="22px" src="https://github.com/lunax0390/lunax0390-stack/tree/main/designs/ide_packages/xcode.png" />
-                <img align="left" alt="lunax0390-stack | Apple XCode" width="22px" src="https://github.com/lunax0390/lunax0390-stack/tree/main/designs/ide_packages/npm.png" />
-                <img align="left" alt="lunax0390-stack | Apple XCode" width="22px" src="https://github.com/lunax0390/lunax0390-stack/tree/main/designs/ide_packages/homebrew.png" />
+                <img align="left" alt="lunax0390-stack | Adobe Dreamweaver" width="22px" src="https://github.com/lunax0390/lunax0390-stack/blob/main/designs/ide_packages/intellij-idea.png" />
+                <img align="left" alt="lunax0390-stack | Adobe Dreamweaver" width="22px" src="https://github.com/lunax0390/lunax0390-stack/blob/main/designs/ide_packages/pycharm.png" />
+                <img align="left" alt="lunax0390-stack | Visual Studio Code" width="22px" src="https://github.com/lunax0390/lunax0390-stack/blob/main/designs/ide_packages/visual-studio-logo.png" />
+                <img align="left" alt="lunax0390-stack | Apple XCode" width="22px" src="https://github.com/lunax0390/lunax0390-stack/blob/main/designs/ide_packages/xcode.png" />
+                <img align="left" alt="lunax0390-stack | Apple XCode" width="22px" src="https://github.com/lunax0390/lunax0390-stack/blob/main/designs/ide_packages/npm.png" />
+                <img align="left" alt="lunax0390-stack | Apple XCode" width="22px" src="https://github.com/lunax0390/lunax0390-stack/blob/main/designs/ide_packages/homebrew.png" />
             </p><br>
 </div>
 
@@ -55,8 +55,8 @@ I enjoy programming and am eager to learn more about full-stack web, app and sof
 <div> 
     - OS:
         <p><br>
-            <img align="left" alt="lunax0390-stack | macOS" width="22px" src="https://github.com/lunax0390/lunax0390-stack/tree/main/designs/os/mac-os.png" />
-            <img align="left" alt="lunax0390-stack | Windows" width="22px" src="https://github.com/lunax0390/lunax0390-stack/tree/main/designs/os/windows-client.png" />                      
+            <img align="left" alt="lunax0390-stack | macOS" width="22px" src="https://github.com/lunax0390/lunax0390-stack/blob/main/designs/os/mac-os.png" />
+            <img align="left" alt="lunax0390-stack | Windows" width="22px" src="https://github.com/lunax0390/lunax0390-stack/blob/main/designs/os/windows-client.png" />                      
         </p>
         <br>
 </div>
@@ -73,7 +73,7 @@ I enjoy programming and am eager to learn more about full-stack web, app and sof
  - Visit:
  <p>
   
-  [<img align="left" alt="cmulay | Portfolio" width="22px" src="https://github.com/lunax0390/lunax0390-stack/tree/main/designs/socials/domain.png" />](https://ac21.is-a.dev)
+  [<img align="left" alt="cmulay | Portfolio" width="22px" src="https://github.com/lunax0390/lunax0390-stack/blob/main/designs/socials/domain.png" />](https://ac21.is-a.dev)
   
  </p> <br>
 </div>
@@ -84,7 +84,7 @@ I enjoy programming and am eager to learn more about full-stack web, app and sof
   - Social (I have only email contact):
  <p>
   
-  [<img align="left" alt="lunax0390-stack | Mail" width="22px" src="https://github.com/lunax0390/lunax0390-stack/tree/main/designs/socials/gmail.png" />](mailto:moonsec99@gmail.com)
+  [<img align="left" alt="lunax0390-stack | Mail" width="22px" src="https://github.com/lunax0390/lunax0390-stack/blob/main/designs/socials/gmail.png" />](mailto:moonsec99@gmail.com)
  
  </p>
 </div>
