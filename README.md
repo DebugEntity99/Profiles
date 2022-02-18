@@ -1,4 +1,4 @@
-[![ProfileBanner](https://github.com/lunax0390/lunax0390-stack/tree/main/designs/lunax0390-stack.gif)](https://ac21.is-a.dev/)
+[![ProfileBanner](https://github.com/lunax0390/lunax0390-stack/blob/main/designs/lunax0390-stack.gif)](https://ac21.is-a.dev/)
 
 ### Hello, my name is ! Luna, my pseudonym. ! 🙋‍♂
 I'm a computer science engineering student.
