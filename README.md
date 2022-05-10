@@ -12,8 +12,6 @@ I enjoy programming and am eager to learn more about full-stack web, app and sof
 
 - 👯 In my free time I will study about code.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 💬 You can ask me everything do you want to know of my life :) I can ask 
-
 ---
 
 <div>
