@@ -13,7 +13,7 @@ MessageBox.Show("I Am Noob.", "Github.com/LunaaX0856", MessageBoxButton.OK, Mess
 
 # About Me:
 
-📩・Any question? Add [**Socket#0001**](https://discord.com/users/938574318500212786) on [**Discord**](https://discord.com)</a>
+📩・Any question? Add [**! Lunaa#0856**](https://discord.com/users/928954822038802484) on [**Discord**](https://discord.com)</a>
 <a href="https://discord.com/users/938574318500212786" target="_blank"></a></p>
 
 🛠・**Backend**:
