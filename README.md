@@ -3,8 +3,6 @@
 </p>
 
 <p align="center"><img src="https://gpvc.arturio.dev/LunaaX0856" alt="Visitors"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Automized" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Automized" alt="Profile Forks"></a>
 
 ```csharp
 MessageBox.Show("I Am Noob.", "Github.com/LunaaX0856", MessageBoxButton.OK, MessageBoxIcon.Infomation)
