@@ -13,8 +13,6 @@ MessageBox.Show("I Am Noob.", "Github.com/LunaaX0856", MessageBoxButton.OK, Mess
 
 # About Me:
 
-⌛️・Latest open source project [**Snapchat-Username-Checker**](https://github.com/Automized/Snapchat-Username-Checker) **-** [**Discord-Rainbow-Roles**](https://github.com/Automized/Discord-Rainbow-Roles)
-
 📩・Any question? Add [**Socket#0001**](https://discord.com/users/938574318500212786) on [**Discord**](https://discord.com)</a>
 <a href="https://discord.com/users/938574318500212786" target="_blank"></a></p>
 
